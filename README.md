@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Spacecraft Instant Search</h3>
   <p>
-    An instant search for a spaceships dataset.
+    An instant search for a spaceship dataset.
     <br />
-    <a href="https://name-variatons-app.vercel.app/"><strong>Website »</strong></a>
+    <a href="http://spacecraft-git-master.mzelinka17.vercel.app/"><strong>Website »</strong></a>
   </p>
 </div>
 
